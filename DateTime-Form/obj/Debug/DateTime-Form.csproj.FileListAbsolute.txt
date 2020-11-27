@@ -1,0 +1,10 @@
+F:\vsu\peartedio\praktika\DateTime-Form\DateTime-Form\DateTime-Form\bin\Debug\DateTime_Form.exe.config
+F:\vsu\peartedio\praktika\DateTime-Form\DateTime-Form\DateTime-Form\bin\Debug\DateTime_Form.exe
+F:\vsu\peartedio\praktika\DateTime-Form\DateTime-Form\DateTime-Form\bin\Debug\DateTime_Form.pdb
+F:\vsu\peartedio\praktika\DateTime-Form\DateTime-Form\DateTime-Form\obj\Debug\DateTime-Form.csprojAssemblyReference.cache
+F:\vsu\peartedio\praktika\DateTime-Form\DateTime-Form\DateTime-Form\obj\Debug\DateTime_Form.Properties.Resources.resources
+F:\vsu\peartedio\praktika\DateTime-Form\DateTime-Form\DateTime-Form\obj\Debug\DateTime-Form.csproj.GenerateResource.cache
+F:\vsu\peartedio\praktika\DateTime-Form\DateTime-Form\DateTime-Form\obj\Debug\DateTime-Form.csproj.CoreCompileInputs.cache
+F:\vsu\peartedio\praktika\DateTime-Form\DateTime-Form\DateTime-Form\obj\Debug\DateTime_Form.exe
+F:\vsu\peartedio\praktika\DateTime-Form\DateTime-Form\DateTime-Form\obj\Debug\DateTime_Form.pdb
+F:\vsu\peartedio\praktika\DateTime-Form\DateTime-Form\DateTime-Form\obj\Debug\DateTime_Form.Form1.resources
